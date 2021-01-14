@@ -30,6 +30,9 @@ dependencies:
   http: ^0.12.1
   shared_preferences: ^0.5.8
   flushbar: ^1.10.4
+  firebase_core: ^0.5.0+1
+  firebase_auth: ^0.18.1+2
+  sms_autofill: ^1.2.6
 
 
 
